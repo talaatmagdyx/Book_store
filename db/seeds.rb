@@ -8,16 +8,15 @@
 
 Product.delete_all
 # . . .
-Product.create(title: 'java',
+Product.create(title: 'Agile Web Development with Rails 5',
 description:
 %{<p>
-<em>Native Apps, Multiple Platforms</em>
-Answer the question “Can we build this for ALL the devices?” with a
-resounding YES. This book will help you get there with a real-world
-introduction to seven platforms, whether you’re new to mobile or an
-experienced developer needing to expand your options. Plus, you’ll find
-out which cross-platform solution makes the most sense for your needs.
+Rails 5 and Ruby 2.2 bring many improvements, including new APIs and substantial performance enhancements, 
+and the fifth edition of this award-winning classic is now updated! If you’re new to Rails,
+ you’ll get step-by-step guidance. If you’re an experienced developer, 
+ this book will give you the comprehensive, 
+insider information you need for the latest version of Ruby on Rails.
 </p>},
-image_url: 'java.png',
+image_url: 'agile.jpg',
 price: 26.00)
 # . . .
